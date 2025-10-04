@@ -123,7 +123,6 @@ Upload this conceptual report to your GitHub repository as both Markdown (`.md`)
    🔗 [https://github.com/hemanthkumardm/SFAL-VSD-SoC-Journey](https://github.com/hemanthkumardm/SFAL-VSD-SoC-Journey)
 
 2. **VLSI System Design (VSD) Initiative** – *BabySoC Learning Modules and Simulation Framework*  
-   🔗 [https://www.vlsisystemdesign.com/](https://www.vlsisystemdesign.com/)
 
 3. **Open-Source Tool Documentation:**  
    - [Icarus Verilog Manual](https://steveicarus.github.io/iverilog/)  
