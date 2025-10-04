@@ -41,7 +41,7 @@ Develop a theoretical understanding of SoC design flow using the simplified **Ba
 **Deliverable:**  
 A Markdown report summarizing theoretical insights, supported by relevant diagrams and references.  
 
-📂 **Link to File:** [Part 1 – Conceptual Understanding](./Week2_Part1_BabySoC_Fundamentals.md)
+📂 **Link to File:** [Part 1 – Conceptual Understanding](./PART-1/deliverables.md)
 
 ---
 
