@@ -1,11 +1,3 @@
----
-**Name:** Achyut A Bhanderi  
-**Roll No:** 23BEC143  
-**Course:** VSD – System on Chip Design Journey (Week 2)  
-**Institute:** Pandit Deendayal Energy University  
-**Date:** October 2025  
----
-
 # 🧩 Week 2 – BabySoC Fundamentals & Functional Modelling  
 ### **Part 1 – Conceptual Understanding**
 
